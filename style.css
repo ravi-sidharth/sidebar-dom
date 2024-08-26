@@ -39,8 +39,7 @@
 
 
 .right-row {
-    display: flex;
-    justify-content: flex-end;
+    float: right;
     margin-top: -57rem;
     margin-right: 2rem;
     font-size: 3rem;

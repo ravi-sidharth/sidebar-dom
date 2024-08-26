@@ -16,7 +16,7 @@ right_row.addEventListener('click',()=>{
     
 })
 
-// row1.addEventListener('click',()=> {
+row1.addEventListener('click',()=> {
 
-//     left_row.classList.toggle('left-row-hide')
-// })
+    left_row.classList.toggle('left-row-show')
+})
